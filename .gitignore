@@ -1,0 +1,5 @@
+/node_modules/
+/.idea/.gitignore
+/.idea/03-investment-calc.iml
+/.idea/modules.xml
+/.idea/prettier.xml
